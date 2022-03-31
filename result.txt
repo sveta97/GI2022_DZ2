@@ -1,0 +1,6 @@
+First read flag field:  1187
+Number of unmapped reads in the file: 17765
+Total number of reads: 2921629
+Number of reads with mapping quality 0: 126628
+Average mapping quality of all the reads: 55.91379158681681
+Average mapping quality with reads with mapping quality 0 filtered out: 58.446975510921106
